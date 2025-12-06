@@ -29,6 +29,10 @@ body {
   background-position: left;
 }
 
+h1{
+  font-size: 4em !important;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
