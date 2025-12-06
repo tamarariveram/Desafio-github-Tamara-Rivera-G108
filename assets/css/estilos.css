@@ -85,6 +85,19 @@ h1{
   background-size: cover;
   background-position: center;
 }
+.bg-info{
+  background-color: #ffecec !important;
+}
+
+.btn-card{
+  color: #000000 !important;
+  border-color: #ff7f7f;
+}
+
+.btn-link{
+  text-decoration: none;
+  color: #000000 !important;
+}
 
 /* Contacto */
 
