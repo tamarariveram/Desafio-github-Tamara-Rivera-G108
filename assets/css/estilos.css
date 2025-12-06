@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: linear-gradient(rgba(26, 22, 22, 0.493), rgba(35, 14, 14, 0.217)), url("../img/img-banner.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
